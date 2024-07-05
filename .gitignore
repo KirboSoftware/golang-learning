@@ -1,3 +1,4 @@
 .idea
 
 *.sum
+/3. Getting started with multi-module workspaces/workspace/example/
